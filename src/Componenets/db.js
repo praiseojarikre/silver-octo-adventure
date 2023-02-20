@@ -4,10 +4,10 @@ import woodenchair from '../Assets/woodenchair.svg'
 import matchair from '../Assets/matchair.svg'
 import dinningchair from '../Assets/dinningchair.svg'
 import table from '../Assets/table.svg'
-import denyifa from '../Assets/denyifa.jpg'
-import tunde from '../Assets/tunde.jpeg'
-import abiondun from '../Assets/abiodun tech.jpeg'
-import oyin from '../Assets/oyin.jpeg'
+import denyifa from '../Assets/Rectangle 7.svg'
+import tunde from '../Assets/Rectangle 8.svg'
+import abiondun from '../Assets/Rectangle 9.svg'
+import oyin from '../Assets/Rectangle 10.svg'
 
 export const data =[
     {id:1,
@@ -50,7 +50,7 @@ export const data =[
 export const team = [
     {id:1,
         img: denyifa,
-        name: 'DENYIFA SAM',
+        name: 'PRAISE MICHEAL',
         title: 'SENIOR DEV'
 
     },

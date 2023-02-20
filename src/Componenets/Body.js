@@ -10,7 +10,8 @@ import line from "../Assets/Vector 8.svg";
 import twitter from "../Assets/twitter (1).svg";
 import facebook from "../Assets/facebook (1).svg";
 import lindkin from "../Assets/insta.svg";
-
+import {BsCart3} from "react-icons/bs"
+import {AiOutlineHeart} from "react-icons/ai"
 const Body = () => {
   const [datum] = useState(data);
   const [person] = useState(team);
@@ -68,8 +69,8 @@ const Body = () => {
               </div>
               <p>{description}</p>
               <div className="btn-item">
-                <button id="btn-one">🛒Add to Cart</button>
-                <button id="btn-two">♥️ Save item</button>
+                <button id="btn-one"><BsCart3/>Add to Cart</button>
+                <button id="btn-two"><AiOutlineHeart/> Save item</button>
               </div>
             </div>
           );
