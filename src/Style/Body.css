@@ -1,0 +1,171 @@
+#home {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin-top: 212px;
+  font-weight: 500;
+}
+#get-btn {
+  margin-top: 1.5rem;
+  width: 8rem;
+  padding: 6px;
+  background-color: #c19a6b;
+  border-radius: 4px;
+  border: none;
+  color: white;
+}
+#fulls {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 7rem;
+}
+#fulls h5 {
+  color: #c19a6b;
+}
+#mirrowimg {
+  padding-top: 4rem;
+  width: 37rem;
+}
+#browse {
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 4rem;
+  text-align: center;
+}
+#ideal {
+  color: #c19a6b;
+}
+#hh {
+  font-weight: 700;
+}
+.data {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  place-content: center;
+  place-items: center;
+  padding: 3rem 0;
+}
+.inner-data {
+  padding-top: 3rem;
+  text-align: center;
+}
+.inner-data p {
+  text-align: start;
+}
+#ia {
+  padding-top: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+#ia p {
+  color: #c19a6b;
+  font-weight: 600;
+}
+.btn-item {
+  display: flex;
+  gap: 5rem;
+}
+#btn-one {
+  width: 9rem;
+  padding: 5px;
+  background-color: #c19a6b;
+  color: white;
+  border-radius: 5px;
+  border: none;
+}
+#btn-two {
+  width: 9rem;
+  padding: 5px;
+  color: #c19a6b;
+  border-radius: 5px;
+  border: none;
+}
+.wise {
+  padding-top: 4rem;
+  background-color: #f1f1f1;
+  text-align: center;
+  height: 320px;
+  width: 100%;
+  margin-bottom: -11rem;
+}
+.wise p {
+  color: #c19a6b;
+}
+.wise h2 {
+  font-weight: 700;
+}
+.team {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  place-content: center;
+  place-items: center;
+  padding: 3rem 0;
+}
+.inner-person img {
+  width: 281px;
+  height: 350px;
+  border: none;
+}
+.footer {
+  padding-top: 4rem;
+  background-color: #1d1d18;
+  display: flex;
+  justify-content: space-around;
+}
+#fun {
+  color: #c19a6b;
+}
+#shop {
+  color: white;
+}
+#about {
+  color: white;
+}
+#sub {
+  color: white;
+}
+
+#form5{
+    width: 19.5rem;
+    padding: 5px;
+    border-radius: 2px;
+    position: relative;  
+}
+#btn-sub{
+    width: 9rem;
+    position: absolute;
+    right: 6rem;
+    margin-top: 7px;
+    background-color: #c19a6b;
+    color: white;
+    border: none;
+    
+}
+.line{
+    background-color: #1d1d18;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    text-align: center;   
+}
+#li{
+    width: 85%;
+}
+#last{
+    display: flex;
+    justify-content: end;
+    margin-right: 6rem;
+    
+}
+#last p{
+    margin-right: 5rem;
+    color: white;
+}
+#sm{
+    margin-right: 2rem;
+}
+#twitter{
+    margin-right: 1rem;
+}
+#facebook{
+    margin-right: 1rem;
+}
+#linkin{
+    margin-right: 1rem;
+}
